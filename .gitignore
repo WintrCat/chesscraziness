@@ -1,0 +1,8 @@
+*.log
+snapshots
+tcec
+lichesselite
+database
+chesscom2022
+caissabase
+__pycache__
