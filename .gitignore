@@ -6,3 +6,5 @@ database
 chesscom2022
 caissabase
 __pycache__
+!caissabaseresults.log
+!tcecresults.log
